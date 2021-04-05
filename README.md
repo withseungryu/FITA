@@ -1,4 +1,4 @@
-# FITA
+# FATI ( FIFA ONLINE 4 ANIMAL Type Indicator )
 
 ### 소개
 
